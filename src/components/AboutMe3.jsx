@@ -3,7 +3,7 @@ import Tyla from "./../assets/Tyla.png";
 import { ChartBarSquareIcon, ComputerDesktopIcon, CurrencyBangladeshiIcon, PencilSquareIcon, PuzzlePieceIcon } from "@heroicons/react/16/solid";
 import { Squares2X2Icon } from "@heroicons/react/24/outline";
 import Navbar from "./Navbar";
-function Aboutme3() {
+function AboutMe3() {
   return (
     <div>
       <Navbar/>
@@ -137,4 +137,4 @@ function Aboutme3() {
   );
 }
 
-export default Aboutme3;
+export default AboutMe3;

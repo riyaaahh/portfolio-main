@@ -8,7 +8,7 @@ import { FaInstagram, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import Navbar from '../components/Navbar'
 import ContactMe3 from "./ContactMe3";
 import Works3 from '../components/Works3';
-import Aboutme3 from "./Aboutme3";
+import AboutMe3 from "./AboutMe3";
 import  TylaImg from '../assets/TylaImg.png';
 
 import  TylaImg2 from '../assets/TylaImg2.png';
@@ -74,7 +74,7 @@ function Portfoe3() {
                 </div>
                
                 <div className="gap-2 flex flex-col ml-16 mb-18">
-                <Link to={"/Aboutme3"}>
+                <Link to={"/AboutMe3"}>
                         <div className="rounded-3xl flex gap-1 shadow-xl bg-black p-6 hover:scale-105 duration-300">
                             <div className="text-white">ABOUT ME</div>
                             <div><AcademicCapIcon className="w-5 h-5 text-green-500" /></div>
